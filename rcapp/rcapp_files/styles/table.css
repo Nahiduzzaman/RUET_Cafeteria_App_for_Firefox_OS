@@ -1,0 +1,121 @@
+ body {
+     #background-color: #b5a789     #d2b48c;
+	 background: 	url("../images/wood2.gif");
+	 margin: 0;
+     #margin-left: 10%;
+     #margin-right: 20px;
+     #border: thin solid #310906;
+	  #border-width: 2px;
+     #padding: 10px 10px 10px 10px;
+	 font-family:      Georgia, "Times New Roman", Times, serif;
+     #font-family: Cursive,Comic Sans;
+	 #font-size: medium;
+	 
+    } 
+
+
+coverimg{
+	margin: 0;
+		background:  linear-gradient(0deg,black,#675c47);
+
+	}
+	
+
+.box-shadow{
+	box-shadow: 0 0 20px #333; /* all latest browser */
+   -moz-box-shadow: 0 0 15px #333; /* Firefox older version*/
+   -webkit-box-shadow: 0 0 10px #333; /* Chrome/Safari older version*/ 
+}
+	
+	#food {
+		#background:  linear-gradient(10deg,black,#675c47);
+
+  margin-top: 14px;
+  background: url("../images/wood2.gif");
+  #border:              thin solid #310906;
+  width:               90%;
+  height: 258px;
+  
+  margin-left: 10px;
+  color:               #310906;
+  padding:             7px;
+  #background-repeat:   repeat-x;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  #font-size: 50%;
+  line-height:1.76;
+  text-align:          center;
+  #float: left;
+  border-radius: 4px;
+  
+  }
+	
+h1, h2 {
+  background: #310906;
+
+  color:               #F9FFC6;
+  font-size: 200%;
+}
+
+#footer {
+  border: thin solid #310906;
+  background-color: #675c47;
+  color:            #efe5d0;
+  text-align:       center;
+  padding:          15px;
+  margin:           10px 0px 45px 0px;
+  font-size:        70%;
+  line-height: 25px;
+  #clear: both;
+  
+}
+
+
+.back {
+  #display:none;
+  background: linear-gradient(360deg,black,black);
+  position:         fixed;
+  border: thin solid #310906;
+  background-color: #310906;
+  #padding:2px;  
+  bottom:   00px;
+  width: 100%;
+  opacity: 0.9;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  #left:             -90px;
+}
+
+table {
+    
+    border-collapse: collapse;
+	width:82%;
+	font-size:92%;
+	text-align:left;
+	margin-left:30px;
+}
+
+table,td{
+#border: 2px solid black;
+#background: yellow;
+
+}
+table,th{
+#background:grey;
+#border: 2px solid black;
+#text-align:center;
+}
+
+.back {
+  #display:none;
+  background: linear-gradient(360deg,black,black);
+  position:         fixed;
+  border: thin solid #310906;
+  background-color: #310906;
+  
+   
+  bottom:   00px;
+  width: 100%;
+  
+  opacity: 0.9;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  #left:             -90px;
+}

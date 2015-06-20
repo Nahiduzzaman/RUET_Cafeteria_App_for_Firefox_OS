@@ -1,0 +1,79 @@
+
+ body {
+     #background-color: #b5a789     #d2b48c;
+	 background: 	url("../images/wood4.gif");
+     margin-left: 10%;
+     margin-right: 10%;
+     border: none;
+     padding: 10px 10px 30px 10px;
+	 font-family:      Georgia, "Times New Roman", Times, serif;
+     #font-family: Cursive,Comic Sans;
+	 font-size: medium;
+    } 
+	
+	#para
+	{
+	 font-size: medium;
+	 line-height: 1.76;
+	 text-align: center;
+	}
+	
+	#para a:link{
+	 color: #FC1F08;
+	}
+	
+	#para a:visited{
+	 color: #C91B09;
+	}
+	
+	#para a:hover{
+	 background-color: #FFE827;
+	}
+	
+	
+	
+	#smenu{
+	background-color: #5F5F5F;
+	border-radius: 15px;
+	border-top: solid #310906;
+	border-bottom:  solid #310906;
+	border-width:8px;
+	word-spacing:140px;
+	#color:            #efe5d0;
+    text-align:       center;
+	padding:          7px;
+	font-family: "Century Gothic";
+	margin:           9px 0px 0px 0px;
+	font-size:        150%;
+  
+}
+
+
+#sfooter {
+  border: thin solid #310906;
+  border-radius: 15px;
+  background-color: #5F5F5F;
+  color:            #DBDBDB;
+  text-align:       center;
+  padding:          15px;
+  margin:           10px 0px 0px 0px;
+  font-size:        90%;
+  #clear: both;
+}
+
+
+
+#smenu a:link {
+  color:               #ffffff;
+}
+
+#smenu a:hover {
+  background:          #310906;
+  color:               #ffffff;
+  border-radius: 3px;
+}
+
+
+#smenu a:visited {
+  color:               #ffffff;
+}

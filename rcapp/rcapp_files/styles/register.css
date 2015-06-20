@@ -1,0 +1,43 @@
+
+
+
+
+
+
+#register
+{
+    border: 3px solid black;
+	 background: url("../images/wood3.gif");
+	padding: 10px;
+    #border: 1px solid #CCC;
+    background-color: #EEE;
+	text-align:center;
+    #margin-left:30%;
+    #margin-right:30%;
+    margin-top:5%;
+	border-radius: 10px;
+
+
+}
+
+
+#reg
+{
+margin-left:27%;
+}
+
+
+label {
+	margin-top: 5px;
+    display: block;
+    width: 100px;
+    padding: 0px;
+    float: left;
+}
+input {
+	
+    border: 1px solid black;
+	margin-bottom: 5px;
+    background-color: #FFF;
+    padding: 2px;
+}

@@ -1,0 +1,192 @@
+ body {
+     #background-color: #b5a789     #d2b48c;
+	 background: 	url("../images/wood2.gif");
+     margin: 0;
+     #margin-right: 10%;
+     #border: thin solid #310906;
+	  #border-width: 2px;
+     #padding: 19px;
+	 font-family:      Georgia, "Times New Roman", Times, serif;
+     #font-family: Cursive,Comic Sans;
+	 font-size: medium;
+	 
+    } 
+	
+	coverimg{
+	margin: 0;
+		background:  linear-gradient(0deg,black,#675c47);
+
+	}
+	
+/*h1, h2 {
+  color:               #310906;
+}*/
+
+#main
+{
+background: 	url("../images/wood3.gif");
+padding: 0px 0px 0px 15px;
+margin-top: 0px;
+}
+
+input:hover {
+	border: 2px solid #222;
+    background-color: #EEE;
+	
+}
+
+#cafelogin{
+  border-radius: 4px;
+  margin: 40px 10px 10px 10px;
+  background: url("../images/wood3.gif");
+  border: 5px solid #310906;
+  padding: 20px;
+  text-align: center;
+  font-size: 95%;
+}
+
+fieldset{
+border:2px solid #310906;
+}
+
+#cscroll{
+    #margin-top: 10px;
+    border-top: solid #310906;
+    border-radius: 5px;
+	border-bottom:  solid #310906;
+	background-color: #675c47;
+	background:  linear-gradient(0deg,black,#675c47);
+	color:#efe5d0;
+	font-size: 200%;
+	margin: 8px;
+	padding: 18px 0px 18px 0px;
+	border-width: 8px;
+	
+}
+#menu{
+    margin: 8px;
+   font-family:      Georgia, "Times New Roman", Times, serif;
+}
+
+ a{text-decoration:none;}
+
+
+
+.button:hover
+{
+  background:linear-gradient(0deg,black,#310906);
+  #color:               #ffffff;
+  #border-radius: 3px; 
+  box-shadow: 0 0 50px #000;
+} 
+
+ .logoutbutton
+{
+	background:  linear-gradient(0deg,black,black);
+	#background:  #675c47;
+    font-family:      Georgia, "Times New Roman", Times, serif;
+	#margin-top: 10px;
+    #background-color: #675c47;
+	color:#efe5d0;
+	font-size: 110%;
+    padding: 3px;
+	text-align:center;
+	border: none;
+	
+	#position: center;
+	border-radius: 4px;
+	#box-shadow: 0 0 50px #000;
+	#-moz-linear-gradient(top,#3cbf0bd,#3498db);
+
+}
+
+
+ .button
+{
+	background:  linear-gradient(0deg,black,#675c47);
+	#background:  #675c47;
+    font-family:      Georgia, "Times New Roman", Times, serif;
+	#margin-top: 10px;
+    #background-color: #675c47;
+	color:#efe5d0;
+	font-size: 150%;
+    padding: 10px;
+	text-align:center;
+	border: none;
+	width: 100%;
+	#position: center;
+	border-radius: 0 0 0 0px;
+	#box-shadow: 0 0 50px #000;
+	#-moz-linear-gradient(top,#3cbf0bd,#3498db);
+
+}
+
+#footer {
+  border: thin solid #310906;
+  background-color: #675c47;
+  color:            #efe5d0;
+  text-align:       center;
+  padding:          15px;
+  margin:           10px 0px 45px 0px;
+  font-size:        70%;
+  line-height: 25px;
+  #clear: both;
+  
+}
+
+.backline{
+   #padding:0px;
+   #background-color: #310906;
+   width:100%;
+   height:40px;
+   border: none;
+   position:         fixed;
+   bottom:   10px;
+}
+
+.back {
+  #display:none;
+  background: linear-gradient(360deg,black,black);
+  position:         fixed;
+  border: thin solid #310906;
+  background-color: #310906;
+  
+   
+  bottom:   00px;
+  width: 100%;
+  
+  
+  opacity: 0.9;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  #left:             -90px;
+}
+
+#coupon {
+  position:         fixed;
+  top:              300px;
+  left:             -90px;
+}
+
+#coupon img {
+  border:           none;
+}
+
+#coupon a:link {
+  border:           none;
+}
+
+#coupon a:visited {
+  border:           none;
+}
+
+
+
+.back a:link {
+  color:               #efe5d0;
+}
+
+.back a:visited {
+  color:               #efe5d0;
+}
+
+

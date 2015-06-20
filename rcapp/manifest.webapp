@@ -1,0 +1,13 @@
+{
+  "name": "Ruet Cafeteria",
+  "description": "providing fresh food to your door ",
+  "launch_path": "/index.php",
+  "icons": {
+    "128": "/rc.png"
+  },
+  "developer": {
+    "name": "nahiduzzamanrose",
+    "url": "http://ruet.ac.bd"
+  },
+  "default_locale": "en"
+}
