@@ -44,6 +44,8 @@ Service, Order and Payment, All in One! Page
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11997067/0e0d2348-aa9c-11e5-906a-6458e14c3859.png)](#features)
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11997072/200d4bf4-aa9c-11e5-816f-1356113dda64.png)](#features)
 
+***MySQL Database is completely functional. Database has been provided in the repository,Check 'ruetcafe.sql' ****
+
 
 
 
