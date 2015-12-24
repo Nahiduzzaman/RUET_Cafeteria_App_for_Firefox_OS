@@ -32,3 +32,7 @@ Food Menu and Weekly Specials!
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11996989/9fc570da-aa9a-11e5-9339-ab2a1cbec6d3.png)](#features)
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11996994/b4a5c2a2-aa9a-11e5-965f-37d3bf94ed81.png)](#features)
 
+Contact and About Page
+=========
+[![cafe](https://cloud.githubusercontent.com/assets/12976221/11997007/e0a769d2-aa9a-11e5-8d3a-a73c04e9c7f6.png)](#features)
+[![cafe](https://cloud.githubusercontent.com/assets/12976221/11997025/4a72b79a-aa9b-11e5-848c-9e95a631133c.png)](#features)
