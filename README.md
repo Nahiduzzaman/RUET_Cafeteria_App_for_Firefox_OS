@@ -17,4 +17,9 @@ Sign In/Up Page, Style Matters!
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11996899/cdfe819c-aa97-11e5-9ca6-04388c8f43b4.png)](#features)
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11996906/02b762b4-aa98-11e5-86ec-08d3e10c2474.png)](#features)
 
+Home Page, Header and Footer
+=========
+[![cafe](https://cloud.githubusercontent.com/assets/12976221/11996920/947df3e8-aa98-11e5-9d2f-021e84831fb6.png)](#features)
+[![cafe](https://cloud.githubusercontent.com/assets/12976221/11996922/a2c6c362-aa98-11e5-9973-37a794dab7af.png)](#features)
+
 
