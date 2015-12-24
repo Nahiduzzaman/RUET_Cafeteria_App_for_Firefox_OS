@@ -22,10 +22,13 @@ Sign Up and Sign In form
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11996980/4c643f8e-aa9a-11e5-8eab-45f5cc2de927.png)](#features)
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11996956/9e1d0d48-aa99-11e5-97a4-6e41608cdc39.png)](#features)
 
-
 Home Page, Header and Footer
 =========
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11996920/947df3e8-aa98-11e5-9d2f-021e84831fb6.png)](#features)
 [![cafe](https://cloud.githubusercontent.com/assets/12976221/11996922/a2c6c362-aa98-11e5-9973-37a794dab7af.png)](#features)
 
+Food Menu and Weekly Specials!
+=========
+[![cafe](https://cloud.githubusercontent.com/assets/12976221/11996989/9fc570da-aa9a-11e5-9339-ab2a1cbec6d3.png)](#features)
+[![cafe](https://cloud.githubusercontent.com/assets/12976221/11996994/b4a5c2a2-aa9a-11e5-965f-37d3bf94ed81.png)](#features)
 
